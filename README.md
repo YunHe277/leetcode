@@ -11,9 +11,10 @@ top-interview-150
 
 top-100-liked
 
-2 / 100
+3 / 100
 
 哈希
 
 1.两数之和
 49.字母异位词分组 (学会了hash表 map(has get set))
+128.最长连续序列
